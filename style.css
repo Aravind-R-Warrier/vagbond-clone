@@ -1,0 +1,117 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: "Roboto", sans-serif;
+    
+}
+ .bg-dark{
+    background-color: black;
+}
+
+
+ .ul .li.a{
+    color: white;
+}
+.nav-item .nav-link{
+    color: white;
+    font-size: 18.5px;
+    padding: 5px;
+    letter-spacing: 1px;
+
+    
+}
+.dropdown:hover .dropdown-menu{
+    display: block;
+}
+
+.dropdown-menu li a{
+    color: #ff8800;
+}
+
+.navbar-nav{
+    margin-right: 40px;
+}
+.nav-link{
+    margin-right: 22px;
+    text-transform:uppercase ;
+    
+}
+
+.navbar-brand img{
+    margin-left: 55px;
+}
+
+
+
+.backgroundimg{
+    
+    background: url(./images/travel-photography-blog-hero.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 560px;
+    
+}
+.btn-primary{
+    background-color: #ff8800;
+    border: #ff8800;
+    font-size: 20px;
+    font-weight: bold;
+}
+.btn-primary:hover{
+background-color: #ff8800;
+}
+
+.container .gallery-1 h1{
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-top: 50px;
+}
+.row h1{
+    font-weight: bolder;
+    font-size: 3em;
+}
+
+.row img{
+    margin-bottom: 30px;
+}
+.row h4{
+    font-weight: bold;
+    color:#ff8800;
+}
+.input-group .btn-primary{
+    background-color: #41a4a9;
+}
+.form-check input{
+    border-color: green;
+}
+
+.borderline{
+    border-top: 2px solid black;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    width: 100%;
+}
+#suscribe h4{
+font-weight: bold;
+color: black;
+}
+
+.h4-social{
+    display: flex;
+    justify-content: center;
+    margin-right:190px ;
+}
+
+.footer-1 h4{
+color: white;
+margin-left: 10px;
+}
+
+.travel-resources a{
+text-decoration: none;
+}
+
+.travel-resources a:hover{
+    text-decoration: underline #ff8800;
+}
